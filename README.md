@@ -4,7 +4,7 @@ The Habit Tracker is a web application built with React that allows users to tra
 
 ### Hosted URL
 
-dsfsdf
+https://habit-tracker-i6ul.onrender.com/
 
 ### Features
 
@@ -20,7 +20,7 @@ dsfsdf
 
 To get started with the Habit Tracker project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-habit-tracker.git`
+1. Clone the repository: `git clone https://github.com/rajendrasarak90/React-Habit-Tracker.git`
 2. Navigate to the folder: `cd habit-tracker`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
