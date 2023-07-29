@@ -4,7 +4,7 @@ The health Tracker is a web application built with React that allows users to tr
 
 ### Hosted URL
 
-https://health-tracker-i6ul.onrender.com/
+https://habit-tracker-i6ul.onrender.com/
 
 ### Features
 
@@ -28,11 +28,11 @@ To get started with the health Tracker project, follow these steps:
 
 ### Usage
 
-1. On the home page, you will find the daily view of all your healths. If no healths are added, you can start by entering a new health using the form provided.
-2. Each health card displays the health's title, date, and status. The status can be toggled by clicking on the status icon.
+1. On the home page, you will find the daily view of all your health tasks. If no task are added, you can start by entering a new task using the form provided.
+2. Each health card displays the task's title, date and status. The status can be toggled by clicking on the status icon.
 3. You can navigate to the weekly view by clicking on the "Weekly" link in the navigation bar. This view displays the status of each health for the past seven days.
 4. In the weekly view, you can update the status of each health for a specific day by clicking on the status icon next to the date.
-5. To delete a health, click on the delete icon in the health card.
+5. To delete a health task, click on the delete icon in the health card.
 
 ### Technologies Used
 
