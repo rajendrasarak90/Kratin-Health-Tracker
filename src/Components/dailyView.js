@@ -52,7 +52,7 @@ function DailyView({ habits, setHabits }) {
     <div className={Style.container}>
       {habits.length === 0 ? (
         <div className={Style.no_hbt}>
-          <p>Oops! No habits yet. Start building a productive routine.</p>
+          <p>Oops! No health task yet. Start building a productive routine.</p>
         </div>
       ) : (
         <div className={Style.habitList}>

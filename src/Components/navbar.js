@@ -63,17 +63,17 @@ function Navbar({ habits, setHabits }) {
     <div className={Style.container}>
       <div className={Style.aside}>
         <div className={Style.title}>
-          <h1>Habit Tracker</h1>
+          <h1>Health Tracker</h1>
           <p>
-            The ultimate habit tracker that empowers you to add, track, and
-            conquer your habits with ease!
+            The ultimate health tracker that empowers you to add, track and
+            conquer your health issues with ease!
           </p>
         </div>
         <div className={Style.addHabit}>
           <form onSubmit={handleSubmit} className={Style.addForm}>
             <input
               type="text"
-              placeholder="Enter Habit"
+              placeholder="Enter Health Task"
               value={title}
               required
               onChange={(e) => {
@@ -81,7 +81,7 @@ function Navbar({ habits, setHabits }) {
               }}
             />
             <button type="submit" className={Style.add_btn}>
-              Add Habit
+              Add Task
             </button>
           </form>
         </div>
