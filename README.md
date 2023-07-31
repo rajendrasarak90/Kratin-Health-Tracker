@@ -42,4 +42,14 @@ To get started with the health Tracker project, follow these steps:
 - Local Storage: For storing health data in the browser.
 - React Toastify: A notification library for React applications.
 
+## Screenshots
+
+### 1. Daily View
+
+![Screenshot](<src/Assests/Screenshot%20(156).png>)
+
+### 1. Weekly View
+
+![Screenshot](<src/Assests/Screenshot%20(155).png>)
+
 ## Thank You ...!
